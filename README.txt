@@ -5,5 +5,4 @@
  mathematical functionality.
 3. Created the responsive design.
 Technology Stack: HTML,
- CSS, JavaScript
-.
+ CSS, JavaScript.
